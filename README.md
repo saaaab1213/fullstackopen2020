@@ -6,7 +6,7 @@ This course serves as an introduction to modern web application development with
 
 | Part  | Exercises|
 | ---   | ---     |
-| 0     | 0/6     |
+| 0     | 6/6     |
 | 1     | 0/14   |
 | 2     | 0/20   |
 | 3     | 0/20   |
@@ -15,4 +15,4 @@ This course serves as an introduction to modern web application development with
 | 6     | 0/21   |        
 | 7     | 0/20   |        
 | 8     | 0/26   |        
-| __Total__ | __0/171__ |        
+| __Total__ | __6/171__ |        
